@@ -6,7 +6,8 @@ This app will help you stay productive and off those social networking sites!
 
 ## Usage
 
-Get it [here!]()
+Get it from GitHub [here!]()
+And from Heroku [here!](https://arcane-beyond-92187.herokuapp.com/)
 
 ![Screenshot]()
 
